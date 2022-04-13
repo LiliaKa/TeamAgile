@@ -1,0 +1,19 @@
+># Stakeholder Register 
+>
+
+|Stakeholder Name                |   Title                       |Role                         | Power (H/L) | Interest (H/L) | Responsibilities | Communication |
+|----------------|-------------------------------|-----------------------------|-----------|-----|-------|----|
+|Sean Smith|Business Owner            |Website Administrator            | H | H | | Weekly Via Email |
+|Ian Allen          |            |Sponsor    | H| H| |Weekly Via Email|
+|     Kelly Slater     |CEO| -  | H |H||Fortnightly Meetings|
+|Leon White | Security Analyst | Project Management | H| H| Backlog Management| Daily Via Emails and Meetings|
+|Russel Ruru | Senior Developer | Website Developer | L | H| Security Certificates and Programming| 
+|Lilia Karl | Junior Developer | Assistant Developer | L | L| - |
+Tom Carroll| Accountant | - | L | L| Manage Supply and Cashflow|
+
+## Document Control
+|     Version           | Date                        |            Modification            | Notes
+|----------------|-------------------------------|-----------------------------|---|
+|Stakeholder Register 1.1|     22/02/2022    |           |First Draft|
+|   Stakeholder Register 1.2       |  23/02/2022          |  More Actors Added          |
+|   Stakeholder Register 2       |7/03/2022|Business Owner Updated | Includes Website Administrator Role|

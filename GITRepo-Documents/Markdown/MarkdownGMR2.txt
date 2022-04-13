@@ -1,0 +1,93 @@
+# Practical Project - Iteration 1 
+## Group Meeting Report
+### Notice of Meeting and Agenda
+
+**Date:** 07/03/2022
+**Time:** 11.26
+**Location:** EIT Campus
+
+---
+**Sponsor:** Ian Allan
+**Name of Group:** Team Agile
+**Group Lead:** Russell Ruru
+**Note taker:** Lilia Karl
+**Attendees:** Lilia Karl, Russell Ruru
+**Absent:** Leon White - no longer in group. 
+**Please bring:** Laptop
+**Agenda items:** 
+1. Review last week's minutes
+2. Review Stakeholder Register
+3. Develop personas
+
+---
+### Minutes
+---
+**Agenda Item 1:** Review last week's minutes
+**Presenter:** Lilia Karl
+
+**Discussion:**
+Overall review of last meeting.
+
+**Conclusions:**
+We were able to meet the goals set in last meeting.
+
+**Action items:**
+* Review success criterion (Rubric)
+	* **Person responsible:** All group members
+		* **Deadline:** 07.03.2022
+
+* Set next week's agenda item
+	* **Person responsible:** Lilia Karl
+		* **Deadline:** 09.02.2022
+---
+**Agenda Item 2:** Review Stakeholder Register
+**Presenter:** Lilia Karl
+
+**Discussion:** 
+Need to update Stakeholder Register to match the project for the e-commerce website for Mushrooms by the Sea.
+
+**Conclusions:**
+Updated the Stakeholder register to include business owner Sean Smith.
+
+**Action items:**
+* Update Stakeholder register for the next meeting
+	* **Person responsible:** Lilia Karl
+		* **Deadline:** 07.03.2022
+
+* Add "document control" to Stakeholder register
+	*  **Person Responsible:** Russell Ruru
+		*  **Deadline:** 10.03.2022
+---
+**Agenda Item 3:** Develop personas
+**Presenter:** Russell Ruru
+
+**Discussion:** 
+Agree how to split and develop personas.
+
+**Conclusions:**
+We started to work on personas, two each member. 
+
+**Action items:**
+* Work on persona 1 - website administrator / owner 
+	* **Person responsible:** Lilia Karl 
+		* **Deadline:** 07.03.2022
+
+* Work on persona 2 - tech-savvy health-conscious online customer 
+	* **Person responsible:** Lilia Karl 
+		* **Deadline:** 07.03.2022
+
+* Work on persona 3 - older user
+	* **Person responsible:** Russell Ruru
+		* **Deadline:** 07.03.2022
+
+* Work on persona 4 - commercial buyer
+	* **Person responsible:** Russell Ruru
+		* **Deadline:** 07.03.2022
+---
+### Other Information 
+---
+**Resources:**
+Refer to Personas Power Point Document Slide 40
+
+**Date of next meeting:**
+XX.XX.2022

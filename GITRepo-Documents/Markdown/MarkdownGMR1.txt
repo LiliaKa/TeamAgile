@@ -1,0 +1,93 @@
+# Practical Project - Iteration 1 
+## Group Meeting Report
+### Notice of Meeting and Agenda
+
+**Date:** 21/02/2022
+**Time:** 10am
+**Location:** EIT Campus
+
+---
+**Sponsor:** Ian Allan
+**Name of Group:** Team Agile
+**Group Lead:** Russell Ruru
+**Note taker:** Leon White
+**Attendees:** Leon White, Lilia Karl, Russell Ruru
+**Absent:** N.A.
+**Please bring:** Laptop
+**Agenda items:** 
+1. Familiarize ourselves with the Agile Project
+2. Complete Stakeholder Register
+3. Communication plan
+
+---
+### Minutes
+---
+**Agenda Item 1:** Familiarize ourselves with the Agile Project
+**Presenter:** Lilia Karl
+
+**Discussion:**
+Introduction, detailed guidelines, project assignment tasks, iteration 1. 
+
+**Conclusions:**
+All group members need to make a good academic effort or our individual marks will go down.
+
+**Action items:**
+* Review success criterion (Rubric)
+	* **Person responsible:** All group members
+		* **Deadline:** 23.02.2022
+
+* Enter assignment dates to all our personal diaries
+	* **Person responsible:** All group members
+		* **Deadline:** 23.02.2022
+
+* Set agenda item
+	* **Person responsible:** Lilia Karl
+		* **Deadline:** 24.02.2022
+---
+**Agenda Item 2:** Complete Stakeholder Register
+**Presenter:** Leon White
+
+**Discussion:** 
+Having a Stakeholder register is important and we will use the time of this meeting to complete a stakeholder register.
+
+**Conclusions:**
+We need to continually update the Stakeholder register.
+
+**Action items:**
+* Review Stakeholder register for the next meeting
+	* **Person responsible:** All group members
+		* **Deadline:** 24.02.2022
+---
+**Agenda Item 3:** Communication plan
+**Presenter:** Russell Ruru
+
+**Discussion:** 
+Agree how to communicate between group members.
+
+**Conclusions:**
+We will use our own group in Microsoft teams because ‘chat’ function limited.
+
+**Action items:**
+* Create Microsoft Team group 
+	* **Person responsible:** Ian Allen 
+		* **Deadline:** 21.02.2022
+
+* Practice meeting
+	* **Person responsible:** All group members
+		*  **Deadline:** 21.02.2022
+
+* Practice uploading and editing a file
+	* **Person responsible:** All group members
+		*  **Deadline:** 21.02.2022
+
+* Ensure group chat works
+	* **Person responsible:** All group members
+		*  **Deadline:** 21.02.2022
+---
+### Other Information 
+---
+**Resources:**
+ITPMS5.240 Agile projects – Practical, Example Stakeholder Register, Microsoft Teams
+
+**Date of next meeting:**
+07.03.2022

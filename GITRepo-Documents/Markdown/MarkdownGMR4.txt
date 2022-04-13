@@ -1,0 +1,85 @@
+> # Practical Project - Iteration 2
+## Group Meeting Report 4
+### Notice of Meeting and Agenda
+
+**Date:** 16/03/2022
+**Time:** 10am
+**Location:** EIT Tarawhiti
+
+---
+**Sponsor:** Ian Allan
+**Name of Group:** Team Agile
+**Group Lead:** N/A
+**Note taker:** Lilia Karl
+**Attendees:** Lilia Karl, Russell Ruru, Cole Yuile
+**Absent:** N/A
+**Please bring:** Laptop
+**Agenda items:** 
+1. Review last week's minutes
+2. Review personas
+3. Arrange future meeting
+
+---
+### Minutes
+---
+**Agenda Item 1:** Review last week's minutes
+**Presenter:** Russel Ruru
+
+**Discussion:**
+Checked where we were up with the assignment, and if we had met all the goals for last week.
+
+**Conclusions:**
+We need to finish personas, including markdown files. There are other markdown files that need to be added (Group Meeting Report markdown files).
+
+**Action items:**
+* Review last week's minutes
+	* **Person responsible:** All group members
+		* **Deadline:** 16.03.2022
+---
+**Agenda Item 2:** Review personas
+**Presenter:** Lilia Karl
+
+**Discussion:** 
+Need to review personas as a group that we developed individually. Decide which ones we are keeping.
+
+**Conclusions:**
+ We will use all four personas. We have changed format on them, so they look similar. We have fine-tuned content
+
+**Action items:**
+* Review personas – one by one
+	* **Person responsible:** All members
+		* **Deadline:** 16.03.2022
+
+* Save changes and update files
+	*  **Person Responsible:** Cole Yuile
+		*  **Deadline:** 16.03.2022
+
+* Convert persona files to markdown
+	*  **Person Responsible:** Russell Ruru
+		* **Dateline:** 18.03.2022
+---
+**Agenda Item 3:** Arrange future meeting
+**Presenter:** Russell Ruru
+
+**Discussion:** 
+Agree when it's best to meet next.
+
+**Conclusions:**
+We will meet on Friday to start on Iteration 2.
+
+**Action items:**
+* Set next meeting
+	* **Person responsible:** All members  
+		* **Deadline:** 16.03.2022
+
+* Set agenda for next meeting 
+	* **Person responsible:** Lilia Karl 
+		* **Deadline:** 17.03.2022
+---
+### Other Information 
+---
+**Resources:**
+Refer to Personas Power Point Document Slide 40
+
+**Date of next meeting:**
+18.03.2022

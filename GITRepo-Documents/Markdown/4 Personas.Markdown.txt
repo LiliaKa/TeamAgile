@@ -1,0 +1,65 @@
+## 4 Personas!
+Hi Lilia and Cole,
+4 Persona Markdowns for:
+ 1. Mushy Sean, (29) by Lilia.
+ 2. Ronald Mac, (45) by Russell
+ 3. Sam Fox, (31) by Lilia
+ 4. Yogi May, (23) by Cole
+
+![#1. Mushy Sean](/images/photo.jpeg)
+(url image link/to be created on GIT). 
+|  |  |
+|--|--|
+| QUOTATION:  “Everything tastes better with mushrooms!”| OCCUPATION: **Full-time mushroom grower**|
+| NAME: **Mushy Sean**| HIGHEST LEVEL OF EDUCATION: Started a course in **Polytech, but** **dropped out** to surf full-time| 
+| AGE: **29** | JOB TITLE: **Website Administrator / Business Owner** | LOCATION: Lorenzen Bay, **Raglan**|
+| GENDER: **Male**| INCOME: **$70K** |
+| LOCATION: Lorenzen Bay, **Raglan**|  |
+|**GOALS AND MOTIVATIONS:**|**CHALLENGES AND OBSTACLES:**|
+| Become NZ restaurant’s gourmet mushroom supplier. Be able to get all the information he needs to run his business from the website – sales, stock numbers. Make Mushrooms by the Sea his main source of income. Work-life balance goal: less work, more surfing! | Able to work with computers, but no in-depth knowledge re websites. The busier his business gets, the less free time he has – he is getting tired of his friends bragging about the surf at Indies that he missed out. Challenge: how to keep mushrooms trending?|
+|**FRUSTRATIONS:**|**SOURCES OF INFORMATION:**|
+| Not being able to get out if the surf is on. Having many customers, but not enough mushrooms in stock! Having many customers, but not enough mushrooms in stock!|BOOKS: Mushrooms Demystified_ by David Arora; 100 Edible Mushrooms_ by Micheal Kuo|
+
+![#2. Ronald Mac](/images/photo.jpeg)
+(url image link/to be created on GIT). . 
+|  |  |
+|--|--|
+| QUOTATION: A family that eats together – grows together. | OCCUPATION: **Power Meter Installer**|
+| NAME: **Ronald Mac**| HIGHEST LEVEL OF EDUCATION: **Trade Cert Electrical**|
+| AGE: **45**| JOB TITLE: **Meter Technician**|
+| GENDER: **Male**| INCOME: **$70K**|
+| LOCATION: Bow Street, **Raglan** | Cell |
+| **GOALS AND MOTIVATIONS:** | **CHALLENGES AND OBSTACLES:**|
+| Works up to 10 hrs a day and wants to relax during his time off. Hobbies: gardening and interested in hydroponics. Active in Rugby and Surf lifesaving.| Always weight conscious. Doesn’t have much time to exercise. Is not tech savvy in using ecommerce websites to purchase products online.|
+| **FRUSTRATIONS:**| **SOURCES OF INFORMATION:**|
+| Time: doesn’t have time to shop for fresh produce and lacks information about them. Nutrition: Ronald is frustrated about all the unhealthy ingredients in food products | BOOKS:  All Blacks. BLOGS:  Hydroponics & Permaculture. CONFERENCES:  Union meetings. EXPERTS:  Buck Shelford. MAGAZINES:  The Consumer|
+
+![#3. Sam Fox](/images/photo.jpeg)
+(url image link/to be created on GIT).  
+|  |  |
+|--|--|
+| QUOTATION: “Nothing beats a freshly cooked meal with fresh ingredients” | OCCUPATION: **Full time restaurant manager**|
+| NAME: **Sam Fox** | HIGHEST LEVEL OF EDUCATION: Finished High School, **Bachelor of Business** Administration|
+| AGE: **31yo** | JOB TITLE: **Restaurant Manager**|
+| GENDER: **Male**| INCOME: **$100K**|
+| LOCATION: Victoria Street, **Raglan** | Cell |
+| **GOALS AND MOTIVATIONS** | **CHALLENGES AND OBSTACLES** |
+| Would like to transition his restaurant to a more gourmet type of restaurant. Wants to use only fresh/the best ingredients to achieve a higher quality of food. Hopes the improvements of food and quality will raise the restaurant to 5 stars making it a 5-star quality restaurant for people to visit.| Meeting supply demands for the busy Restaurant. Making Customers happy. Increasing the Restaurant to a 5-star quality level. Using the best quality/gourmet ingredients for the food.|
+| **FRUSTRATIONS:** | **SOURCES OF INFORMATION:**|
+| Can’t order enough mushrooms/ can’t bulk order. Doesn’t remember previous orders. Having many customers, but not enough mushrooms in stock!| BOOKS: Crossing the Chasm by Geoffrey Moore. Zero to One by Peter Thiel. BLOGS: Restaurant Manifesto. |
+
+![#4. Yogi May](/images/photo.jpeg)
+(url image link/to be created on GIT).  
+|  |  |
+|--|--|
+| QUOTATION: QUOTATION: “Nothing good can grow if you don’t nourish your own soil.”| OCCUPATION: **Full time millenial**|
+| NAME: **Yogi May**| HIGHEST LEVEL OF EDUCATION: Started a course in **Polytech**, but dropped out to surf full-time.|
+| AGE: **23**| JOB TITLE: **Barista**|
+| GENDER: **Female**| INCOME: **$45K**|
+| LOCATION: **Raglan**, New Zealand|  |
+| **GOALS AND MOTIVATIONS:** | **CHALLENGES AND OBSTACLES:**|
+| Loves healthy food and keeping active. Likes using iPhones, smart watches, and fit bands. Active Instagram user. Does not miss a yoga class at the local studio, which she books through the MomoYoga app. Travelling. | How to afford the latest iPhone with her salary. Healthy food can be expensive. Challenge – how to take an Instagram worthy pic of her meals?  Challenge – how to eat healthy while travelling?|
+| **FRUSTRATIONS:**|**SOURCES OF INFORMATION:**|
+| | Books: Autobiography of a Yogi, by Paramahansa Yogananda. Yoga and the Quest for the True Self, by Stephen Cope. The Well Plated Cookbook: Fast, Healthy Recipes You’ll Want to Eat, by Erin Clark.
+
+(802 Words)

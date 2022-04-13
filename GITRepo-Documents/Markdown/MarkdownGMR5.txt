@@ -1,0 +1,90 @@
+> # Practical Project - Iteration 2
+## Group Meeting Report 5
+### Notice of Meeting and Agenda
+
+**Date:** 18/03/2022
+**Time:** 1pm
+**Location:** EIT Campus Library
+
+---
+**Sponsor:** Ian Allan
+**Name of Group:** Team Agile
+**Group Lead:** N/A
+**Note taker:** Lilia Karl
+**Attendees:** Lilia Karl, Russell Ruru, Cole Yuile
+**Absent:** N/A
+**Please bring:** Laptop
+**Agenda items:** 
+1. Review project progress
+2. Start on Iteration 2
+3. Set next meeting date and agenda
+
+---
+### Minutes
+---
+**Agenda Item 1:** Review project progress
+**Presenter:** Russel Ruru
+
+**Discussion:**
+Check whether we are up to date with assignment: complete GMRs (including markdown files); persona’s markdown files.
+
+**Conclusions:**
+Once we have a live link to persona’s files, we will add that to markdown file.
+
+**Action items:**
+* Update persona links
+	* **Person responsible:** Russell Ruru
+		* **Deadline:** 22.03.2022
+
+**Action items:**
+* Finish GMR markdown files
+	*	**Person responsible:** Lilia Karl
+		*	**Deadline:** 20.03.2022
+
+
+**Action items:**
+* Update Stakeholder Register
+	*	**Person responsible:** Cole Yuile
+		*	**Deadline:** 18.03.2022
+---
+**Agenda Item 2:** Start on Iteration 2
+**Presenter:** Cole Yuile
+
+**Discussion:** 
+Need to start on Iteration 2 because there will be no time in class to work on this part of the project. Familiarise ourselves with the tasks. Task / responsibilities allocation.
+
+**Conclusions:**
+We had an introduction to Iteration 2 by reading the guidelines and looking at the template files. We will not allocate tasks yet. 
+
+**Action items:**
+* Read guidelines
+	* **Person responsible:** All members
+		* **Deadline:** 18.03.2022
+
+* Read resources 
+	*  **Person Responsible:** All members
+		*  **Deadline:** 18.03.2022
+---
+**Agenda Item 3:** Set next meeting date and agenda
+**Presenter:** N/A
+
+**Discussion:** 
+Agree when it is best to meet next, according to member’s timetables and project workload. Agree on next meeting’s agenda.
+
+**Conclusions:**
+We will discuss next week when we will meet next.
+
+**Action items:**
+* Set next meeting
+	* **Person responsible:** All members  
+		* **Deadline:** 27.03.2022
+
+---
+### Other Information 
+---
+#### Resources:
+
+EIT online – Assessment's tab: Iteration 2 guidelines
+
+**Date of next meeting:**
+T.B.C.
