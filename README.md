@@ -663,6 +663,7 @@ Tom Carroll| Accountant | - | L | L| Manage Supply and Cashflow|
 
 
 
+
 ># Resource needs
 
 | **Task Code** | **Deliverable Description** | **Resource Name** | **Amount of Resource Required** | **Cost** | |
