@@ -663,7 +663,7 @@ Tom Carroll| Accountant | - | L | L| Manage Supply and Cashflow|
 
 
 
-Table 1: Resource needs for our project
+># Resource needs
 
 | **Task Code** | **Deliverable Description** | **Resource Name** | **Amount of Resource Required** | **Cost** | |
 | --- | --- | --- | --- | --- | --- |
@@ -710,9 +710,6 @@ Table 1: Resource needs for our project
 | **Sub-Total** | | | | **450 NZ$** |
 | **TOTAL** | | | | **11,527 NZ$** |
 | --- | --- | --- | --- | --- | --- |
-
-**Note: please make sure you fill all information related to your project above and convert everything to readme.md (GitHub)**
-
 
 
 
