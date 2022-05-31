@@ -638,6 +638,85 @@ Date of next meeting: Monday  11/04/2022.  Due to assignment report due this w
 
 
 
+
+
+># Stakeholder Register 
+>
+
+|Stakeholder Name                |   Title                       |Role                         | Power (H/L) | Interest (H/L) | Responsibilities | Communication |
+|----------------|-------------------------------|-----------------------------|-----------|-----|-------|----|
+|Sean Smith|Business Owner            |Website Administrator            | H | H | | Weekly Via Email |
+|Ian Allen          |            |Sponsor    | H| H| |Weekly Via Email|
+|     Kelly Slater     |CEO| -  | H |H||Fortnightly Meetings|
+|Leon White | Security Analyst | Project Management | H| H| Backlog Management| Daily Via Emails and Meetings|
+|Russel Ruru | Senior Developer | Website Developer | L | H| Security Certificates and Programming| 
+|Lilia Karl | Junior Developer | Assistant Developer | L | L| - |
+Tom Carroll| Accountant | - | L | L| Manage Supply and Cashflow|
+
+## Document Control
+|     Version           | Date                        |            Modification            | Notes
+|----------------|-------------------------------|-----------------------------|---|
+|Stakeholder Register 1.1|     22/02/2022    |           |First Draft|
+|   Stakeholder Register 1.2       |  23/02/2022          |  More Actors Added          |
+|   Stakeholder Register 2       |7/03/2022|Business Owner Updated | Includes Website Administrator Role|
+
+
+
+
+Table 1: Resource needs for our project
+
+| **Task Code** | **Deliverable Description** | **Resource Name** | **Amount of Resource Required** | **Cost** | |
+| --- | --- | --- | --- | --- | --- |
+| **1.0** | **Iteration 1 – Planning and Design** | | | |
+| 1.1 | Planning – prepare meeting  | Team members meeting | 2 hours  | 2x(30$x3) = 180$   |
+| 1.2 | Hardware – applicable to entire project  | Laptop | 3 laptops  | 3x1000$ = 3000$  |
+| 1.3 | Software – applicable to entire project  | Office 365 – MS Teams | 3-month subscription x5 users | From 3x(5x9.10$) = 136.50$ (tax not included) |
+| 1.4 | Stakeholder Register | Team members meeting (workshop)  | 1 hour | 30$x3 = 90$ |
+| 1.5 | Persona Developing | Team members meeting (workshop)  | 2 hours | 2x(30$x3) = 180$   |
+| 1.6 | Persona Testing | Team members meeting (workshop)  | 1 hour | 30$x3 = 90$ |
+| 1.7 | Markdown files | Team members meeting (workshop)  | 1 hour | 30$x3 = 90$ |
+| 1.8 | Iteration 1 Report | Team members meeting (workshop) + uploading file | 1 hour | 30$x3 = 90$ |
+| **Sub-Total** | | | | **3856.50 NZ$** |
+| **2.0** | **Iteration 2 – Implementation** | | | |
+| 2.1 | Planning – prepare meeting  | Team members meeting | 2 hours  | 2x(30$x3) = 180$   |
+| 2.2 | ALL documents converted into Markdown files | Team members meeting (workshop)  | 4 hours | 90$x4 = 360$ |
+| 2.3 | Resource Needs Report | Team members meeting | 2 hours  | 90$x2 = 180$ |
+| 2.4 | Gant Chart | Team members meeting | 2 hours  | 90$x2 = 180$ |
+| 2.5 | Progress Report | Team members meeting (workshop) | 1 hour | 90$ |
+| 2.6 | Markdown documents to GitHub | Team members meeting | | |
+| 2.7 | Design an ecommerce mobile app  | Team members meeting (workshop)  | 40 hours  | 40x(30$x3) = 3600$   |
+| 2.8 | Software | Adobe Suite | 3-month subscription x3 users | 3x(79$x3) = 711$ |
+| 2.9 | Software | GitHub | $40per user/yearfor the first 12 months\* | 3x $40 = $120 |
+| **Sub-Total** | | | | **5,421 NZ$** |
+| **4.0** | **Iteration 3 – Implementation and MVP** | | | |
+| 4.1 | Planning – Prepare meeting | Team members meeting | 2 Hours | 2x(30$x3) = 180$ |
+| 4.2 | All documents converted into Markdown files | Team members meeting (workshop) | 4 Hours | 90$x4 = 360$ |
+| 4.3 | Resource needs Report | Team members meeting | 2 Hours | 90$x2 = 180$ |
+| 4.4 | Gantt Chart | Team members meeting | 2 Hours | 90$x2 = 180$ |
+| 4.5 | Progress Report | Team members meeting (workshop) | 1 Hour | 90$ |
+| 4.6 | Risk Register | Team members meeting | 2 Hours | 90$x2 = 180$ |
+| 4.7 | User Acceptance Test Results | Team members meeting (workshop | 3 Hours | 90$x3 = 270$ |
+| 4.8 | Create static website |  Github |  4 Hours | 90$x4 = 360$ |
+| **Sub-Total** | | | | **1800 NZ$** |
+| 4.0 | **Final Handover** | | | |
+| 4.1 | Stakeholder Register | Team members already reviewed | Done | |
+| 4.2 | Website Hosting | Team members review | 1 Hour | 90$ |
+| 4.3 | Domain Name | | | |
+| 4.4 | Gantt Chart | Team members review | 1 Hour | 90$ |
+| 4.5 | Personas | Team members already reviewed | Done | |
+| 4.6 | Risk Register | Team members review | 1 Hour | 90$ |
+| 4.7 | Group Meeting Reports | Team members review | 1 Hour | 90$ |
+| 4.8 | User Acceptance test results | Team members review | 1 Hour | 90$ |
+| **Sub-Total** | | | | **450 NZ$** |
+| **TOTAL** | | | | **11,527 NZ$** |
+| --- | --- | --- | --- | --- | --- |
+
+**Note: please make sure you fill all information related to your project above and convert everything to readme.md (GitHub)**
+
+
+
+
+
 # Risk Register
 
 <details>
