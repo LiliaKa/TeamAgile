@@ -198,6 +198,446 @@ Refer to Personas Power Point Document Slide 40
 XX.XX.2022
 
 
+> # Practical Project - Iteration 1 
+## Group Meeting Report 3
+### Notice of Meeting and Agenda
+
+**Date:** 16/03/2022
+**Time:** 11.26
+**Location:** EIT Campus
+
+---
+**Sponsor:** Ian Allan
+**Name of Group:** Team Agile
+**Group Lead:** Russell Ruru
+**Note taker:** Lilia Karl
+**Attendees:** Lilia Karl, Russell Ruru
+**Absent:** Cole Yuile  
+**Please bring:** Laptop
+**Agenda items:** 
+1. Review group progress
+2. Iteration 1 Report 
+3. Arrange future meetings 
+
+---
+### Minutes
+---
+**Agenda Item 1:** Review group progress
+**Presenter:** Russel Ruru
+
+**Discussion:**
+Overall review of what we have done so far and what needs to be done 
+
+**Conclusions:**
+We needed to meet Wednesday and, if possible on Friday
+
+**Action items:**
+* Review Success Criterion (Rubric)
+	* **Person responsible:** All group members
+		* **Deadline:** 14.03.2022
+
+* Set next week's agenda item
+	* **Person responsible:** Lilia Karl
+		* **Deadline:** 14.03.2022
+---
+**Agenda Item 2:** Iteration 1 Report
+**Presenter:** Lilia Karl
+
+**Discussion:** 
+Need to write the group report for Iteration 1. We have already had a group brainstorm through sharing files on teams.
+**Conclusions:**
+We will use the time on class to finalize the report.
+**Action items:**
+* Write the report draft 
+	* **Person responsible:** Lilia Karl, Russel Ruru
+		* **Deadline:** 14.03.2022
+
+* Write final document 
+	*  **Person Responsible:** Lilia Karl
+		*  **Deadline:** 15.03.2022
+---
+**Agenda Item 3:** Arrange future meeting
+**Presenter:** Russell Ruru
+
+**Discussion:** 
+Agree when it's best to meet next.
+
+**Conclusions:**
+We will meet and work together on Wednesday and possibly on Friday.
+
+**Action items:**
+* Set next meeting
+	* **Person responsible:** All members  
+		* **Deadline:** 15.03.2022
+
+* Set agenda for next meeting 
+	* **Person responsible:** Lilia Karl 
+		* **Deadline:** 15.03.2022
+
+* Work on persona 4 - commercial buyer
+	* **Person responsible:** Russell Ruru
+		* **Deadline:** 07.03.2022
+---
+### Other Information 
+---
+**Resources:**
+Refer to Personas Power Point Document Slide 40
+
+**Date of next meeting:**
+16.03.2022
+
+> # Practical Project - Iteration 2
+## Group Meeting Report 4
+### Notice of Meeting and Agenda
+
+**Date:** 16/03/2022
+**Time:** 10am
+**Location:** EIT Tarawhiti
+
+---
+**Sponsor:** Ian Allan
+**Name of Group:** Team Agile
+**Group Lead:** N/A
+**Note taker:** Lilia Karl
+**Attendees:** Lilia Karl, Russell Ruru, Cole Yuile
+**Absent:** N/A
+**Please bring:** Laptop
+**Agenda items:** 
+1. Review last week's minutes
+2. Review personas
+3. Arrange future meeting
+
+---
+### Minutes
+---
+**Agenda Item 1:** Review last week's minutes
+**Presenter:** Russel Ruru
+
+**Discussion:**
+Checked where we were up with the assignment, and if we had met all the goals for last week.
+
+**Conclusions:**
+We need to finish personas, including markdown files. There are other markdown files that need to be added (Group Meeting Report markdown files).
+
+**Action items:**
+* Review last week's minutes
+	* **Person responsible:** All group members
+		* **Deadline:** 16.03.2022
+---
+**Agenda Item 2:** Review personas
+**Presenter:** Lilia Karl
+
+**Discussion:** 
+Need to review personas as a group that we developed individually. Decide which ones we are keeping.
+
+**Conclusions:**
+ We will use all four personas. We have changed format on them, so they look similar. We have fine-tuned content
+
+**Action items:**
+* Review personas – one by one
+	* **Person responsible:** All members
+		* **Deadline:** 16.03.2022
+
+* Save changes and update files
+	*  **Person Responsible:** Cole Yuile
+		*  **Deadline:** 16.03.2022
+
+* Convert persona files to markdown
+	*  **Person Responsible:** Russell Ruru
+		* **Dateline:** 18.03.2022
+---
+**Agenda Item 3:** Arrange future meeting
+**Presenter:** Russell Ruru
+
+**Discussion:** 
+Agree when it's best to meet next.
+
+**Conclusions:**
+We will meet on Friday to start on Iteration 2.
+
+**Action items:**
+* Set next meeting
+	* **Person responsible:** All members  
+		* **Deadline:** 16.03.2022
+
+* Set agenda for next meeting 
+	* **Person responsible:** Lilia Karl 
+		* **Deadline:** 17.03.2022
+---
+### Other Information 
+---
+**Resources:**
+Refer to Personas Power Point Document Slide 40
+
+**Date of next meeting:**
+18.03.2022
+
+> # Practical Project - Iteration 2
+## Group Meeting Report 5
+### Notice of Meeting and Agenda
+
+**Date:** 18/03/2022
+**Time:** 1pm
+**Location:** EIT Campus Library
+
+---
+**Sponsor:** Ian Allan
+**Name of Group:** Team Agile
+**Group Lead:** N/A
+**Note taker:** Lilia Karl
+**Attendees:** Lilia Karl, Russell Ruru, Cole Yuile
+**Absent:** N/A
+**Please bring:** Laptop
+**Agenda items:** 
+1. Review project progress
+2. Start on Iteration 2
+3. Set next meeting date and agenda
+
+---
+### Minutes
+---
+**Agenda Item 1:** Review project progress
+**Presenter:** Russel Ruru
+
+**Discussion:**
+Check whether we are up to date with assignment: complete GMRs (including markdown files); persona’s markdown files.
+
+**Conclusions:**
+Once we have a live link to persona’s files, we will add that to markdown file.
+
+**Action items:**
+* Update persona links
+	* **Person responsible:** Russell Ruru
+		* **Deadline:** 22.03.2022
+
+**Action items:**
+* Finish GMR markdown files
+	*	**Person responsible:** Lilia Karl
+		*	**Deadline:** 20.03.2022
+
+
+**Action items:**
+* Update Stakeholder Register
+	*	**Person responsible:** Cole Yuile
+		*	**Deadline:** 18.03.2022
+---
+**Agenda Item 2:** Start on Iteration 2
+**Presenter:** Cole Yuile
+
+**Discussion:** 
+Need to start on Iteration 2 because there will be no time in class to work on this part of the project. Familiarise ourselves with the tasks. Task / responsibilities allocation.
+
+**Conclusions:**
+We had an introduction to Iteration 2 by reading the guidelines and looking at the template files. We will not allocate tasks yet. 
+
+**Action items:**
+* Read guidelines
+	* **Person responsible:** All members
+		* **Deadline:** 18.03.2022
+
+* Read resources 
+	*  **Person Responsible:** All members
+		*  **Deadline:** 18.03.2022
+---
+**Agenda Item 3:** Set next meeting date and agenda
+**Presenter:** N/A
+
+**Discussion:** 
+Agree when it is best to meet next, according to member’s timetables and project workload. Agree on next meeting’s agenda.
+
+**Conclusions:**
+We will discuss next week when we will meet next.
+
+**Action items:**
+* Set next meeting
+	* **Person responsible:** All members  
+		* **Deadline:** 27.03.2022
+
+---
+### Other Information 
+---
+#### Resources:
+
+EIT online – Assessment's tab: Iteration 2 guidelines
+
+**Date of next meeting:**
+T.B.C.
+
+> > # Practical Project - Iteration 2
+## Group Meeting Report 6
+### Notice of Meeting and Agenda
+
+**Date:** 06/04/2022
+**Time:** 10:00 AM
+**Location:** EIT Campus
+
+---
+**Sponsor:** Ian Allan
+**Name of Group:** Team Agile
+**Group Lead:** N/A
+**Note taker:** 
+**Attendees:** Lilia Karl
+**Absent:** Cole Yuile, Russel Ruru  
+**Please bring:** Laptop
+**Agenda items:** 
+1. Iteration 2 task assignment
+2. Iteration 2 report
+3. Next meeting
+
+---
+### Minutes
+---
+**Agenda Item 1:** Iteration 2 task assignment 
+**Presenter:** Lilia
+
+**Discussion:**
+Review Iteration 2 tasks. This meeting was supposed to happen the day of the Lab on Weds 6/4/2022, but 2 of us were absent. (RR)
+
+**Conclusions:**
+We need to break down tasks for Iteration 2 and assign them to each member.
+
+We appreciate that Lilia was unable to discuss the Iteration task on her own (RR)
+
+Lilia had already uploaded a Gant chart and breakdown, progress of completed Iteration 1 Tasks and progress of Iteration 2 Tasks so far. (RR)
+
+**Action items:**
+* Lilia shared and uploaded a Gant chart to Teams.
+	* **Person responsible:** Lilia
+		* **Deadline:** 
+
+* Lilia’s chart added to markdown folder
+	* **Person responsible:** Russel
+		* **Deadline:** 
+---
+**Agenda Item 2:** Iteration 2 report
+**Presenter:** Lilia Karl
+
+**Discussion:** 
+Report on Iteration 2 due next week. Lilia and Russell only talked briefly about a group meeting (RR)
+**Conclusions:**
+Lilia was unable to discuss completion of Iteration 2 tasks and report on her own.
+**Action items:**
+* Group focused on completing Lab 4 session
+	* **Person responsible:**Cole Yuile, Russel Ruru
+		* **Deadline:**
+
+
+---
+**Agenda Item 3:** Next Meeting
+**Presenter:** Russell Ruru
+
+**Discussion:** 
+We briefly discussed another group meeting, to discuss the same 3 Agenda items.
+
+**Conclusions:**
+Another meeting was set.
+
+**Action items:**
+* Set meeting on Teams online.
+	* **Person responsible:** Russel and Lilia 
+		* **Deadline:** 
+
+
+---
+### Other Information 
+---
+**Resources:**
+Date of next meeting: Friday 8/04/2022 1pm
+
+**Date of next meeting:**
+08.04.2022 1pm
+
+> > # Practical Project - Iteration 2
+## Group Meeting Report 7
+### Notice of Meeting and Agenda
+
+**Date:** 06/04/2022
+**Time:** 10:00 AM
+**Location:** EIT Campus
+
+---
+**Sponsor:** Ian Allan
+**Name of Group:** Team Agile
+**Group Lead:** N/A
+**Note taker:** 
+**Attendees:** Russell Ruru, Cole Yuile
+**Absent:** Lilia Karl 
+**Please bring:** Laptop
+**Agenda items:** 
+1. Iteration 2 task assignment
+2. Iteration 2 report
+3. Next meeting
+
+---
+### Minutes
+---
+**Agenda Item 1:** Iteration 2 task assignment 
+**Presenter:** Russell 
+
+**Discussion:**
+Review Iteration 2 tasks. We discussed what tasks we needed to complete as a group or individually, from the resource and Gant chart assignments.
+
+**Conclusions:**
+Both of us were unsure about both these assignments
+
+**Action items:**
+* Completing his lab 4 tasks
+	* **Person responsible:** Cole
+		* **Deadline:** 
+
+* Finished lab 4 task
+	* **Person responsible:** Russel
+		* **Deadline:** 
+---
+**Agenda Item 2:** Iteration 2 report
+**Presenter:** Lilia Karl
+
+**Discussion:** 
+Report on Iteration 2 due next week. 
+More detail about the resource and Gant chart assignment is needed, so we can complete the group report.
+**Conclusions:**
+We will have to clarify or get feedback and information  from the Sponsor on Monday 11/04/2022
+**Action items:**
+* Get more information
+	* **Person responsible:** Cole Yuile, Russel Ruru
+		* **Deadline:**
+* Discuss resource and Gantt chart
+	* **Person responsible:** Group
+		* **Deadline:**
+
+
+---
+**Agenda Item 3:** Next Meeting
+**Presenter:** Russell Ruru
+
+**Discussion:** 
+TBD on Monday 11/04/2022
+
+**Conclusions:**
+Meet on campus next week
+
+**Action items:**
+* Discuss group work with sponsor 
+	* **Person responsible:** Group
+		* **Deadline:** 
+
+**Agenda items to discuss:**
+1. Resource Report
+2. Gantt chart report
+3. Iteration 2 group report 
+
+
+---
+### Other Information 
+---
+**Resources:**
+Date of next meeting: Monday  11/04/2022.  Due to assignment report due this week.
+
+**Date of next meeting:**
+11.04.2022
+
+
+
 # Risk Register
 
 <details>
