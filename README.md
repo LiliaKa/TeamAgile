@@ -1,6 +1,11 @@
 # TeamAgile
 This is our shared repository for the Agile Projects assignment 
 
+# Group Members
+
+* Russell Ruru
+* Cole Yuile
+* Lilia Karl 
 
 # Risk Register
 
