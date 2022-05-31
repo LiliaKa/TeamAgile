@@ -1,13 +1,19 @@
 # TeamAgile
 This is our shared repository for the Agile Projects assignment 
 
-# Group Members
+<details>
+  <summary>Group Members</summary>
 
 * Russell Ruru
 * Cole Yuile
 * Lilia Karl 
+</details>
+
 
 # Risk Register
+
+<details>
+  <summary>Risk Register file</summary>
 
 | **ID** | **Date raised** | **Risk description** | **Likelihood of the risk occurring** | **Impact if the risk occurs** | **Severity** _Rating based on impact &amp; likelihood._ |  **Owner** _Person who will manage the risk._ |  **Mitigation action** _Actions to mitigate the risk e.g. reduce the likelihood._ | **Status** | **Useful resources** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -19,4 +25,4 @@ This is our shared repository for the Agile Projects assignment
 | 6 | [10-04-2022] | Budget constrains – not enough funds to cover extensive group meeting&#39;s costs. | Medium | High | High | Project Sponsor | Maximise efficiency of meetings by planning them beforehand in accordance with critical deliverables and group&#39;s progress. | Open |
 | 7 | [06-05-2022] | Final product may be rejected by the client. | Low | High | Medium | Project Sponsor | Communicate regularly and keep client up to date with developments as per communication plan. | Open |
 | 8 | [16-05-2022] | Equipment may fail (Laptops/Computers stop working) | Low | Medium | Medium | Team Members | Make sure each team member has a way to access teams/Github if the risk occurs. | Open |
- 
+</details> 
