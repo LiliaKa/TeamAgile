@@ -642,6 +642,17 @@ Date of next meeting: Monday  11/04/2022.  Due to assignment report due this w
 </details>
 
 
+
+<details>
+  <summary>Personas</summary>
+
+![](https://github.com/LiliaKa/TeamAgile/blob/347f1eae99e45979a13a5b224481b7f78c083877/MushySean.png)
+![](https://github.com/LiliaKa/TeamAgile/blob/347f1eae99e45979a13a5b224481b7f78c083877/RonalMac.png)
+![](https://github.com/LiliaKa/TeamAgile/blob/347f1eae99e45979a13a5b224481b7f78c083877/SamFox.png)
+![](https://github.com/LiliaKa/TeamAgile/blob/347f1eae99e45979a13a5b224481b7f78c083877/YogiMaggie.png)
+</details>
+
+
 <details>
   <summary>Stakeholder Register</summary>
 
