@@ -725,6 +725,11 @@ Tom Carroll| Accountant | - | L | L| Manage Supply and Cashflow|
 | --- | --- | --- | --- | --- | --- |
 </details>
 
+<details>
+	<summary>Gantt Chart</summary>
+	
+[Gantt Chart file](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FLiliaKa%2FTeamAgile%2Fmain%2FGITRepo-Documents%2FGantt%2520Chart%2520-%2520v3.xlsx&wdOrigin=BROWSELINK)
+</details>
 
 <details>
   <summary>Risk Register</summary>
