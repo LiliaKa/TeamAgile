@@ -9,6 +9,10 @@ This is our shared repository for the Agile Projects assignment
 * Lilia Karl 
 </details>
 
+
+<details>
+  <summary>Group Meeting Reports</summary>
+
 # Practical Project - Iteration 1 
 ## Group Meeting Report 1
 ### Notice of Meeting and Agenda
@@ -635,13 +639,11 @@ Date of next meeting: Monday  11/04/2022.  Due to assignment report due this w
 
 **Date of next meeting:**
 11.04.2022
+</details>
 
 
-
-
-
-># Stakeholder Register 
->
+<details>
+  <summary>Stakeholder Register</summary>
 
 |Stakeholder Name                |   Title                       |Role                         | Power (H/L) | Interest (H/L) | Responsibilities | Communication |
 |----------------|-------------------------------|-----------------------------|-----------|-----|-------|----|
@@ -659,12 +661,11 @@ Tom Carroll| Accountant | - | L | L| Manage Supply and Cashflow|
 |Stakeholder Register 1.1|     22/02/2022    |           |First Draft|
 |   Stakeholder Register 1.2       |  23/02/2022          |  More Actors Added          |
 |   Stakeholder Register 2       |7/03/2022|Business Owner Updated | Includes Website Administrator Role|
+</details>
 
 
-
-
-
-># Resource needs
+<details>
+  <summary>Resource Needs table</summary>
 
 | **Task Code** | **Deliverable Description** | **Resource Name** | **Amount of Resource Required** | **Cost** | |
 | --- | --- | --- | --- | --- | --- |
@@ -711,14 +712,11 @@ Tom Carroll| Accountant | - | L | L| Manage Supply and Cashflow|
 | **Sub-Total** | | | | **450 NZ$** |
 | **TOTAL** | | | | **11,527 NZ$** |
 | --- | --- | --- | --- | --- | --- |
+</details>
 
-
-
-
-# Risk Register
 
 <details>
-  <summary>Risk Register file</summary>
+  <summary>Risk Register</summary>
 
 | **ID** | **Date raised** | **Risk description** | **Likelihood of the risk occurring** | **Impact if the risk occurs** | **Severity** _Rating based on impact &amp; likelihood._ |  **Owner** _Person who will manage the risk._ |  **Mitigation action** _Actions to mitigate the risk e.g. reduce the likelihood._ | **Status** | **Useful resources** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
