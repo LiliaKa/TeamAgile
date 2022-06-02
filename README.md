@@ -745,8 +745,7 @@ Tom Carroll| Accountant | - | L | L| Manage Supply and Cashflow|
 <details>
   <summary>User Acceptance Testing</summary>
 
-
-	
+![](https://github.com/LiliaKa/TeamAgile/blob/main/GITRepo-Documents/UserAcceptanceTest.png)
 </details>
 
 
